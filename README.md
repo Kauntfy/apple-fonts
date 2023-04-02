@@ -8,3 +8,5 @@ If you want to see and get the proof that all this information really has on App
 
 Apple Developer Site:
 https://developer.apple.com/fonts/
+
+*Soon, in this same repository, some other fonts used by Apple will be published for download.*
